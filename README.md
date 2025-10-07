@@ -1,7 +1,7 @@
 # ASTR8004_AstroComp_A03
 This repository contains submission for ASTR8004 Astronomical Computing Assignment 03
 
-##Repository content
+## Repository content
 
 1.  test_code.ipynb
     -This is the additional code uploaded to the new branch as submission for Question 1
@@ -15,7 +15,7 @@ This repository contains submission for ASTR8004 Astronomical Computing Assignme
 4.  Q02_PLOT.ipynb
     -This notebook contains python codes to plot the required figures for Question 2.
 
-##Directories
+## Directories
 
 1.  data/:
     -Contains all data used for Assignment 03
